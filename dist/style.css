@@ -1,0 +1,178 @@
+*::before, 
+*::after { 
+  box-sizing: border-box; 
+} 
+ul
+{
+  margin-block-start: 0rem;
+  margin-block-end: 0rem;
+  padding-inline-start: 0px;
+}
+
+ul li
+{
+  list-style: none;
+  text-decoration:none;
+  font-style: italic;
+}
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  font-size: 120%;
+  min-width: 50%;
+  max-width: none;
+}
+
+/* header rules*/
+header
+{
+  display:flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  align-content: center;
+  justify-content: space-between;
+  align-items: center;
+}
+
+/* footer rules*/
+.about-me
+{
+  display: flex;
+  height: 10em;
+  background-color: #3f5aa3;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-content:center;
+  align-items:center;
+  font-weight: bold;
+  color: #ffffff;
+  padding-top: 10px;
+  padding-bottom: 10px; 
+  padding-right: 40px;
+  font-size: 20px;    
+  text-align: center; 
+}
+
+.about-me span
+{
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.about-me a
+{
+  color: aqua;
+}
+
+a 
+{
+  text-decoration: none;
+}
+
+.header 
+{
+   
+    display:flex; 
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: stretch;
+    justify-content: normal;
+    align-items: stretch; 
+    background-color: red;
+    color: white;
+}
+
+.header h1
+{
+  font-size: 45px;
+  text-align: center;
+}
+
+.header h1 a
+{
+  padding: 20px;
+  display:flex;
+  margin:auto;
+  text-align: center;
+  width: 300px;
+  background-color: #d1d0cf;
+  color: #301c15;
+}
+
+.nav 
+{
+  width: auto;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  background-color: #301c15;
+  
+}
+
+.employee
+{
+    padding: 2rem;
+    margin: 2rem;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: space-around;
+    justify-content: space-evenly;
+    align-items: flex-start;
+    box-shadow: 0 0 0 5px #1b1b1b, 0 0 0 7px #1b1b1a, 0 0 0 10px #1b1a1b, 0 0 0 10px #1b1a1a,0 0 0 15px #1a1a1a;
+}
+
+.wrapper-list
+{
+    padding-left: 20px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-content: flex-end;
+    align-items: center;
+}
+
+.wrapper-header-employee
+{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: stretch;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.header1
+{
+    padding-left: 20px;
+    width: 300px;
+    display:flex; 
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: stretch;
+    justify-content: normal;
+    align-items: stretch; 
+    background-color: blue;
+    color: white;
+}
+
+.page-container
+{
+    padding-top: 2rem;
+    margin: 10rem;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: space-between;
+    align-items: baseline;
+    
+}
+
+.wrapper-gap
+{
+    height: 50px;
+    width: 50px;
+    display: flex;
+}
