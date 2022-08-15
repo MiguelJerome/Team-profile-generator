@@ -23,7 +23,7 @@ Team Profile Generator
 
 ## Contribution Guidelines
 * This is a final product, that is ready to be use.
-* [Team Profile Generator Page Ressources](https://github.com/MiguelJerome/Professionnal-Readme09)
+* [Team Profile Generator Page Ressources](https://github.com/MiguelJerome/Team-profile-generator)
 
 ## Test Instructions
 * This Team Profile Generator works and is ready to be use.
@@ -52,7 +52,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 ## Questions
-* [MiguelJerome](https://github.com/MiguelJerome/)Gihub
+* [MiguelJerome](https://github.com/MiguelJerome/)Github
 * [Contact Us](mailto:2001326@collegelacite.ca)Email
 * How to reach me : You can contact me by email or github
 
